@@ -1,6 +1,7 @@
 package com.code;
 
-public class L1_WarmUp_Q1 {
+//  Write a program to print "Hello, World!" on the screen.
+public class L1_Q1 {
 	
 	public static void main(String[] args) {
 		
